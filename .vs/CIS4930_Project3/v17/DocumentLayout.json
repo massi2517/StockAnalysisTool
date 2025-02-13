@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Form_stockDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Form_stockDisplay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BullishHarami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\smartCandlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Form_stockDisplay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Bearish.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_DragonflyDoji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_DragonflyDoji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishEngulfing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BullishEngulfing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BearishHarami.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BearishEngulfing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Valley.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Valley.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Peak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Neutral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Neutral.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Marubozu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Marubozu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Hammer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Hammer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_GravestoneDoji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_GravestoneDoji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Doji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Doji.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bullish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Bullish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Bearish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\CppCLR_WinFormsProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\candlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\candlestick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\AssemblyInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BearishHarami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BearishEngulfing.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\smartCandlestick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_BullishHarami.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0777AD8-FF6D-4DA7-BF38-3E134C1F4BBA}|CIS4930_Project3\\CIS4930_Project3.vcxproj|solutionrelative:CIS4930_Project3\\Recognizer_Peak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recognizer_BullishHarami.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BullishHarami.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BullishHarami.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "smartCandlestick.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\smartCandlestick.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\smartCandlestick.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Recognizer.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form_stockDisplay.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Form_stockDisplay.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Form_stockDisplay.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_stockDisplay.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Form_stockDisplay.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.h",
+              "RelativeToolTip": "CIS4930_Project3\\Form_stockDisplay.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form_stockDisplay.h [Design]",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Form_stockDisplay.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Form_stockDisplay.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\CIS4930_Project3\\CIS4930_Project3\\Form_stockDisplay.h [Design]",
+              "RelativeToolTip": "..\\CIS4930_Project3\\CIS4930_Project3\\Form_stockDisplay.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-13T17:23:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recognizer_DragonflyDoji.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_DragonflyDoji.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_DragonflyDoji.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_DragonflyDoji.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_DragonflyDoji.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recognizer_Bearish.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Bearish.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Bearish.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recognizer_BullishEngulfing.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishEngulfing.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BullishEngulfing.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishEngulfing.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BullishEngulfing.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Recognizer_BearishHarami.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BearishHarami.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BearishHarami.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Recognizer_BearishEngulfing.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BearishEngulfing.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BearishEngulfing.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Recognizer_Valley.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Valley.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Valley.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Valley.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Valley.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Recognizer_Peak.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Peak.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Peak.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Recognizer_Neutral.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Neutral.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Neutral.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Neutral.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Neutral.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Recognizer_Marubozu.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Marubozu.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Marubozu.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Marubozu.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Marubozu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Recognizer_Hammer.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Hammer.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Hammer.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Hammer.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Hammer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Recognizer_GravestoneDoji.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_GravestoneDoji.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_GravestoneDoji.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_GravestoneDoji.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_GravestoneDoji.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Recognizer_Doji.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Doji.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Doji.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Doji.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Doji.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recognizer_Bullish.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bullish.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Bullish.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bullish.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Bullish.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Recognizer_Bearish.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Bearish.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Bearish.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Bearish.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CppCLR_WinFormsProject.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\CppCLR_WinFormsProject.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\CppCLR_WinFormsProject.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\CppCLR_WinFormsProject.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\CppCLR_WinFormsProject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\AssemblyInfo.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\AssemblyInfo.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\AssemblyInfo.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\AssemblyInfo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Recognizer_BearishHarami.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BearishHarami.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishHarami.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BearishHarami.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Recognizer_BearishEngulfing.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BearishEngulfing.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BearishEngulfing.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BearishEngulfing.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "candlestick.cpp",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\candlestick.cpp",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\candlestick.cpp",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\candlestick.cpp",
+              "RelativeToolTip": "CIS4930_Project3\\candlestick.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T17:23:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Recognizer.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer.h",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvyIAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "smartCandlestick.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\smartCandlestick.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\smartCandlestick.h",
+              "RelativeToolTip": "CIS4930_Project3\\smartCandlestick.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Recognizer_BullishHarami.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_BullishHarami.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_BullishHarami.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_BullishHarami.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Recognizer_Peak.h",
+              "DocumentMoniker": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.h",
+              "RelativeDocumentMoniker": "CIS4930_Project3\\Recognizer_Peak.h",
+              "ToolTip": "C:\\Users\\massi\\OneDrive\\Desktop\\Past CLasses\\Fall 2024\\Adv OOP (CIS 4930)\\StockAnalysisToolFinal\\CIS4930_Project3\\Recognizer_Peak.h",
+              "RelativeToolTip": "CIS4930_Project3\\Recognizer_Peak.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-13T17:23:58.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
